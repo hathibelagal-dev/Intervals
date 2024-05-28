@@ -1,6 +1,6 @@
 # Excluding Intervals
 
-This project an attempt at working with intervals. Intervals can be merged, excluded.
+This project is an attempt at working with intervals. Intervals can be merged, excluded.
 
 Minimum requirements:
 
