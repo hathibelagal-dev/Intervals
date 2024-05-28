@@ -1,7 +1,10 @@
 # Excluding Intervals
 
+This project an attempt at working with intervals. Intervals can be merged, excluded.
+
 Get the code from here:
 ```
+https://github.com/hathibelagal-dev/Intervals
 ```
 
 You can then install the dependencies:
