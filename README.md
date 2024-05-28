@@ -2,6 +2,11 @@
 
 This project an attempt at working with intervals. Intervals can be merged, excluded.
 
+Minimum requirements:
+
+- Node v20.12.0
+- NPM 10.7.0
+
 Get the code from here:
 ```
 https://github.com/hathibelagal-dev/Intervals
