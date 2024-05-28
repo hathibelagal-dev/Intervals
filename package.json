@@ -1,0 +1,14 @@
+{
+  "name": "intervals",
+  "version": "0.0.1",
+  "main": "fintervals.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashraff Hathibelagal",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
